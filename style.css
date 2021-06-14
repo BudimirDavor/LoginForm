@@ -1,0 +1,21 @@
+body
+{
+	background:#ffcc00;
+}
+.loginwindow
+{
+	background:#003300;
+	padding: 30px;
+}
+h2
+{
+	text-align:center;
+	padding:10px;
+	color:#003300; 
+}
+label
+{
+	color:white;
+	padding-left:10px;
+}
+
